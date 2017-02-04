@@ -1,15 +1,13 @@
 # hello-world
 Hello World Project (first time use)
 
-hello-world
-===========
-
 ```
 Code stuff and stuff
 ```
 
 Points many come in
-1. Numbers
+1.  Numbers
+2.  Like this
 or
 * Bullets
 
